@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "879112790331",
+    "firebase_url": "https://shopsm-3254e.firebaseio.com",
+    "project_id": "shopsm-3254e",
+    "storage_bucket": "shopsm-3254e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879112790331:android:b299d57a8113d8ea",
+        "android_client_info": {
+          "package_name": "com.omni.shop_sm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879112790331-0akopdhak259r36pkfpvea2pjtv7pnk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omni.shop_sm",
+            "certificate_hash": "35556bcc7f2917f17105f86e6c5071db038f52b0"
+          }
+        },
+        {
+          "client_id": "879112790331-erj128p78bbjhr4crjjgomh21nvgv32l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omni.shop_sm",
+            "certificate_hash": "86bb09693fff4133c616843ce7b28afb9c648158"
+          }
+        },
+        {
+          "client_id": "879112790331-qc51dppjo1df660rmgrocdpjea8rjosh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omni.shop_sm",
+            "certificate_hash": "49aa531dddb0e8427ab4def01fdbdb95b7fb71f2"
+          }
+        },
+        {
+          "client_id": "879112790331-ibj0kdda4b07bie2qq3624ah9vuf1qvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgb8M122ri8E48D3TCFVAM9jH601Y9DeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879112790331-g2ehth07jki7tg6m7s2820t1novn6l2p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879112790331-01p7mdnqresv5f3phqb3q8mcd3pb633d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopsmNext"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+package_rename_config:
+  android:
+    app_name: ShopSM # (String) The display name of the android app
+    package_name: com.omni.shop_sm # (String) The package name of the android app
+    override_old_package: com.example.shopsm_next # (Optional) (String) Use this to delete the old folder structure of MainActivity or to use the existing code with the new package name
+  
+  ios:
+    app_name: ShopSM # (String) The display name of the ios app
+    bundle_name: ShopSM # (String) The bundle name of the ios app
+    package_name: com.omnichannel.shopSm # (String) The product bundle identifier of the ios app
+
+  macos:
+    app_name: ShopSM # (String) The product name of the macos app
+    package_name: com.omnichannel.shopSm # (String) The product bundle identifier of the macos app
+    copyright_notice: "" # (String) The product copyright of the macos app
+
+  web:
+    app_name: ShopSM # (String) The title and display name of the web app and PWA
+    description: "ShopSM App" # (String) The description of the web app and PWA
